@@ -4,7 +4,7 @@ I attempt to replicate several of the figures/tables on the NYT map and daily ca
 
 1. 270_individual_project.Rmd provides the r code and output for said code. 
 
-2. I provide the us_counties.csv I read the documents from url so it is not necessary. 
+2. I did not provide the us_counties.csv. I read the documents from url so it is not necessary. 
 
 3. I provide a pdf of the code and output using knitr. 
 
